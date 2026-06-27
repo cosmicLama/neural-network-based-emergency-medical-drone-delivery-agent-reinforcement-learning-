@@ -1,6 +1,9 @@
 <img width="1097" height="596" alt="Screenshot 2026-06-27 194439" src="https://github.com/user-attachments/assets/4c46fc87-3da4-49d3-bc3a-50167e34e968" />
 
-A simulated multicopter that teaches itself to fly, navigate, and land precisely on a target using deep reinforcement learning (Unity ML-Agents / PPO), built toward autonomous delivery of urgent medical supplies — syringes, medication, first-aid kits — to homes spread across a wide, low-density desert community like Al Qua'a.
+A simulated multicopter that teaches itself to fly, navigate, and land precisely on a target using deep reinforcement learning (Unity ML-Agents / PPO), built toward autonomous delivery of urgent medical supplies — syringes, medication, first-aid kits — to homes spread across a wide, low-density desert community like Al Qua'a. 
+
+Please Note github is not allowing me to upload my project .unitypackage of 337mb. The project is an autonomous neural network agent and file size 337mb is the most compression i could get. So uploaded scripts which makes the agent work.
+
 # Autonomous Medical Delivery Drone — Reinforcement-Learning Flight Controller
 
 **Tatweer Hackathon 2026 · Challenge 2 — Reaching people quickly across a dispersed community**
