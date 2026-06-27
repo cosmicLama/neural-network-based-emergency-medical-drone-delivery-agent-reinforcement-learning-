@@ -1,0 +1,2 @@
+# neural-network-based-emergency-medical-drone-delivery-agent-reinforcement-learning-
+A simulated multicopter that teaches itself to fly, navigate, and land precisely on a target using deep reinforcement learning (Unity ML-Agents / PPO), built toward autonomous delivery of urgent medical supplies — syringes, medication, first-aid kits — to homes spread across a wide, low-density desert community like Al Qua'a.
