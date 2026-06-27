@@ -105,7 +105,7 @@ The training approach is airframe-agnostic by design — the same pipeline can r
 
 ## 8. Team
 
-*(add team member names here)*
+Syed Raza
 
 ## 9. License / acknowledgements
 
