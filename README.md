@@ -77,7 +77,8 @@ The training approach is airframe-agnostic by design — the same pipeline can r
 2. Open the training scene containing the drone rig (`Multicopter` + four `Rotor` units) and the agent component.
 3. To watch a **pre-trained** policy fly: assign the trained `.onnx` model to the agent's Behavior Parameters and press Play.
 4. To **train from scratch**: run `mlagents-learn <config>.yaml --run-id=<name>`, then press Play in Unity. Training progress (targets reached per episode, etc.) is logged via ML-Agents' StatsRecorder and visible in TensorBoard.
-5. Camera footage of flights can be captured using the included chase-camera component for demo purposes.
+5. mlagents release version 21 used from github
+6. Project file size is over 300mb and github is not allowing me to upload the full project file
 
 **Tools used:** Unity, C#, Unity ML-Agents Toolkit (PPO), TensorBoard for training metrics.
 
